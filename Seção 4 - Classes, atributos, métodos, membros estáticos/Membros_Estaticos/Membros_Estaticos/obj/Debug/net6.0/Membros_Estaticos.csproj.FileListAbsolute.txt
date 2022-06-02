@@ -1,0 +1,15 @@
+C:\Users\luckh\OneDrive\Área de Trabalho\C#\Seção 4 - Classes, atributos, métodos, membros estáticos\Membros_Estaticos\Membros_Estaticos\bin\Debug\net6.0\Membros_Estaticos.exe
+C:\Users\luckh\OneDrive\Área de Trabalho\C#\Seção 4 - Classes, atributos, métodos, membros estáticos\Membros_Estaticos\Membros_Estaticos\bin\Debug\net6.0\Membros_Estaticos.deps.json
+C:\Users\luckh\OneDrive\Área de Trabalho\C#\Seção 4 - Classes, atributos, métodos, membros estáticos\Membros_Estaticos\Membros_Estaticos\bin\Debug\net6.0\Membros_Estaticos.runtimeconfig.json
+C:\Users\luckh\OneDrive\Área de Trabalho\C#\Seção 4 - Classes, atributos, métodos, membros estáticos\Membros_Estaticos\Membros_Estaticos\bin\Debug\net6.0\Membros_Estaticos.dll
+C:\Users\luckh\OneDrive\Área de Trabalho\C#\Seção 4 - Classes, atributos, métodos, membros estáticos\Membros_Estaticos\Membros_Estaticos\bin\Debug\net6.0\Membros_Estaticos.pdb
+C:\Users\luckh\OneDrive\Área de Trabalho\C#\Seção 4 - Classes, atributos, métodos, membros estáticos\Membros_Estaticos\Membros_Estaticos\obj\Debug\net6.0\Membros_Estaticos.csproj.AssemblyReference.cache
+C:\Users\luckh\OneDrive\Área de Trabalho\C#\Seção 4 - Classes, atributos, métodos, membros estáticos\Membros_Estaticos\Membros_Estaticos\obj\Debug\net6.0\Membros_Estaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luckh\OneDrive\Área de Trabalho\C#\Seção 4 - Classes, atributos, métodos, membros estáticos\Membros_Estaticos\Membros_Estaticos\obj\Debug\net6.0\Membros_Estaticos.AssemblyInfoInputs.cache
+C:\Users\luckh\OneDrive\Área de Trabalho\C#\Seção 4 - Classes, atributos, métodos, membros estáticos\Membros_Estaticos\Membros_Estaticos\obj\Debug\net6.0\Membros_Estaticos.AssemblyInfo.cs
+C:\Users\luckh\OneDrive\Área de Trabalho\C#\Seção 4 - Classes, atributos, métodos, membros estáticos\Membros_Estaticos\Membros_Estaticos\obj\Debug\net6.0\Membros_Estaticos.csproj.CoreCompileInputs.cache
+C:\Users\luckh\OneDrive\Área de Trabalho\C#\Seção 4 - Classes, atributos, métodos, membros estáticos\Membros_Estaticos\Membros_Estaticos\obj\Debug\net6.0\Membros_Estaticos.dll
+C:\Users\luckh\OneDrive\Área de Trabalho\C#\Seção 4 - Classes, atributos, métodos, membros estáticos\Membros_Estaticos\Membros_Estaticos\obj\Debug\net6.0\refint\Membros_Estaticos.dll
+C:\Users\luckh\OneDrive\Área de Trabalho\C#\Seção 4 - Classes, atributos, métodos, membros estáticos\Membros_Estaticos\Membros_Estaticos\obj\Debug\net6.0\Membros_Estaticos.pdb
+C:\Users\luckh\OneDrive\Área de Trabalho\C#\Seção 4 - Classes, atributos, métodos, membros estáticos\Membros_Estaticos\Membros_Estaticos\obj\Debug\net6.0\Membros_Estaticos.genruntimeconfig.cache
+C:\Users\luckh\OneDrive\Área de Trabalho\C#\Seção 4 - Classes, atributos, métodos, membros estáticos\Membros_Estaticos\Membros_Estaticos\obj\Debug\net6.0\ref\Membros_Estaticos.dll

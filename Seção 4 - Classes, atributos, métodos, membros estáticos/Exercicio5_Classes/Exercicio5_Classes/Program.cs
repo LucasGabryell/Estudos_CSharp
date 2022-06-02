@@ -8,20 +8,22 @@ namespace Course
     {
         static void Main(string[] args)
         {
-            Funcionario funcionario = new Funcionario(); 
-            Console.Write("Nome: ");
-            funcionario.Nome = Console.ReadLine();
-            Console.Write("Salário Bruto: ");
-            funcionario.SalarioBruto = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            Console.Write("Imposto: ");
-            funcionario.Imposto = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            Console.WriteLine(funcionario);
-            Console.WriteLine("Digite a porcentagem para aumentar o salário: ");
-            double perc = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            funcionario.AumentarSalario(perc);
+            Aluno aluno = new Aluno();
+            Console.Write("Quantos alunos serão vizualizados? ");
+            int qtd = int.Parse(Console.ReadLine());
+            for (int i = 0; i < qtd; i++)
+            {
+                Console.Write("\nNome do Aluno: ");
+                aluno.Nome = Console.ReadLine();
 
-            Console.WriteLine("Dados atualizados: " + funcionario);
+                Console.WriteLine("Digite as três notas do aluno:");
+                aluno.Nota1 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                aluno.Nota2 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                aluno.Nota3 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+                Console.WriteLine(aluno);
+            }
         }
     }
 }
