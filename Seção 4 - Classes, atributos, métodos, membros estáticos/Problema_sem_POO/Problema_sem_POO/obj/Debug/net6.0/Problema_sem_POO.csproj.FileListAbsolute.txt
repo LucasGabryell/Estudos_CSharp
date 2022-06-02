@@ -1,0 +1,15 @@
+C:\Users\luckh\OneDrive\Área de Trabalho\C#\Seção 4 - Classes, atributos, métodos, membros estáticos\Problema_sem_POO\Problema_sem_POO\bin\Debug\net6.0\Problema_sem_POO.exe
+C:\Users\luckh\OneDrive\Área de Trabalho\C#\Seção 4 - Classes, atributos, métodos, membros estáticos\Problema_sem_POO\Problema_sem_POO\bin\Debug\net6.0\Problema_sem_POO.deps.json
+C:\Users\luckh\OneDrive\Área de Trabalho\C#\Seção 4 - Classes, atributos, métodos, membros estáticos\Problema_sem_POO\Problema_sem_POO\bin\Debug\net6.0\Problema_sem_POO.runtimeconfig.json
+C:\Users\luckh\OneDrive\Área de Trabalho\C#\Seção 4 - Classes, atributos, métodos, membros estáticos\Problema_sem_POO\Problema_sem_POO\bin\Debug\net6.0\Problema_sem_POO.dll
+C:\Users\luckh\OneDrive\Área de Trabalho\C#\Seção 4 - Classes, atributos, métodos, membros estáticos\Problema_sem_POO\Problema_sem_POO\bin\Debug\net6.0\Problema_sem_POO.pdb
+C:\Users\luckh\OneDrive\Área de Trabalho\C#\Seção 4 - Classes, atributos, métodos, membros estáticos\Problema_sem_POO\Problema_sem_POO\obj\Debug\net6.0\Problema_sem_POO.csproj.AssemblyReference.cache
+C:\Users\luckh\OneDrive\Área de Trabalho\C#\Seção 4 - Classes, atributos, métodos, membros estáticos\Problema_sem_POO\Problema_sem_POO\obj\Debug\net6.0\Problema_sem_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luckh\OneDrive\Área de Trabalho\C#\Seção 4 - Classes, atributos, métodos, membros estáticos\Problema_sem_POO\Problema_sem_POO\obj\Debug\net6.0\Problema_sem_POO.AssemblyInfoInputs.cache
+C:\Users\luckh\OneDrive\Área de Trabalho\C#\Seção 4 - Classes, atributos, métodos, membros estáticos\Problema_sem_POO\Problema_sem_POO\obj\Debug\net6.0\Problema_sem_POO.AssemblyInfo.cs
+C:\Users\luckh\OneDrive\Área de Trabalho\C#\Seção 4 - Classes, atributos, métodos, membros estáticos\Problema_sem_POO\Problema_sem_POO\obj\Debug\net6.0\Problema_sem_POO.csproj.CoreCompileInputs.cache
+C:\Users\luckh\OneDrive\Área de Trabalho\C#\Seção 4 - Classes, atributos, métodos, membros estáticos\Problema_sem_POO\Problema_sem_POO\obj\Debug\net6.0\Problema_sem_POO.dll
+C:\Users\luckh\OneDrive\Área de Trabalho\C#\Seção 4 - Classes, atributos, métodos, membros estáticos\Problema_sem_POO\Problema_sem_POO\obj\Debug\net6.0\refint\Problema_sem_POO.dll
+C:\Users\luckh\OneDrive\Área de Trabalho\C#\Seção 4 - Classes, atributos, métodos, membros estáticos\Problema_sem_POO\Problema_sem_POO\obj\Debug\net6.0\Problema_sem_POO.pdb
+C:\Users\luckh\OneDrive\Área de Trabalho\C#\Seção 4 - Classes, atributos, métodos, membros estáticos\Problema_sem_POO\Problema_sem_POO\obj\Debug\net6.0\Problema_sem_POO.genruntimeconfig.cache
+C:\Users\luckh\OneDrive\Área de Trabalho\C#\Seção 4 - Classes, atributos, métodos, membros estáticos\Problema_sem_POO\Problema_sem_POO\obj\Debug\net6.0\ref\Problema_sem_POO.dll
